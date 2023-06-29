@@ -1,6 +1,8 @@
 # Rock, Paper, Scissors Game using Python
 **Objective:** Implement a command-line game of Rock, Paper, Scissors in Python.
 
+![game](https://github.com/Murli0399/Rock-Paper-Scissors-Game/blob/e48e144b60c5f9cf78b3f12e6ca9adde57c11ca7/img/Untitled.png)
+
 ## **Requirements:**
 
 1. The game should be between a user and the computer.

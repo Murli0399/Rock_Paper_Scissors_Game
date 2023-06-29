@@ -1,7 +1,7 @@
 # Rock, Paper, Scissors Game using Python
 **Objective:** Implement a command-line game of Rock, Paper, Scissors in Python.
 
-### **Requirements:**
+## **Requirements:**
 
 1. The game should be between a user and the computer.
 2. The game should ask the user for their choice (rock, paper, or scissors).
@@ -14,7 +14,7 @@
 6. The game should continue in a loop until the user decides to quit.
 7. The user should be able to quit the game at any point.
 
-### **Extra Challenge:**
+## **Extra Challenge:**
 
 For students who finish early or want an extra challenge, consider adding one or more of the following features:
 
